@@ -2,7 +2,7 @@
 set -e
 
 # webdawg@gmail.com
-# requirements:  jq p7zip
+# requirements:  jq p7zip tar date docker
 # IF YOU EDIT THIS SCRIPT
 # MAKE SURE TO KEEP SLASHES, ETC
 
